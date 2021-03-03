@@ -1,4 +1,4 @@
-# spec
+# Package
 - install nodejs
 
 install nodejs
@@ -22,6 +22,6 @@ or '<script src="https://www.WebRTC-Experiment.com/RecordRTC.js"></script>'
 - record control bar
 - deploy on server
 
-# issue 
+# Issue 
 - double user in chat 
 - record and download stream(mp4)
